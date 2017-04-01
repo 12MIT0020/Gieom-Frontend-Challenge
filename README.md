@@ -1,1 +1,0 @@
-# Gieom-Frontend-Challenge
